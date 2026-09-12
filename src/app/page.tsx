@@ -17,7 +17,7 @@ type SeaCreature = {
 const creatures: SeaCreature[] = [
   {
     emoji: "🐡",
-    name: "1.鮟鱇魚",
+    name: "鮟鱇魚",
     latin: "Anglerfish",
     depth: "棲息深度 300–4000 公尺",
     desc: "頭頂垂著會發光的誘餌，在伸手不見五指的深海中引誘獵物靠近，是深海中最著名的伏擊型獵手，也是深海最具代表性的形象之一。",
